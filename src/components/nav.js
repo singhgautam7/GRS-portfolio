@@ -173,7 +173,10 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume.pdf"
+      target="_blank" rel="noopener noreferrer">
       Resume
     </a>
   );

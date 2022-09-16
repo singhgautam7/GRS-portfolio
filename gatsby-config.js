@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Gautam Singh is a software engineer who specializes in python and developing web apps',
     siteUrl: 'https://singhgautam.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/logo.png', // Path to your image you placed in the 'static' folder
     twitterUsername: 'gautamsingh1997',
 
   },
