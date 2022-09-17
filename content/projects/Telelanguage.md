@@ -2,7 +2,7 @@
 date: '2022-04-1'
 title: 'Telelanguage'
 github: ''
-external: ''
+external: 'https://telelanguage.com/'
 company: 'SpringML'
 showInProjects: true
 tech:
