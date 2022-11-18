@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building web applications, with an expertise in Python.
-        Currently, I’m working as a Data Engineer at{' '}
+        I’m a software engineer specializing in building web applications, with an expertise in
+        Python. Currently, I’m working as a Data Engineer at{' '}
         <a href="https://www.springml.com/" target="_blank" rel="noreferrer">
           SpringML
         </a>
@@ -76,10 +76,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://singhgautam.hashnode.dev/"
+      href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume.pdf"
       target="_blank"
       rel="noreferrer">
-      See my recent blogs
+      Download My Resume
     </a>
   );
 
