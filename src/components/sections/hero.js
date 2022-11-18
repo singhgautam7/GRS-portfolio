@@ -76,10 +76,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://singhgautam.hashnode.dev/"
+      href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume.pdf"
       target="_blank"
       rel="noreferrer">
-      See my recent blogs
+      Download My Resume
     </a>
   );
 
