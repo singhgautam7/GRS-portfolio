@@ -76,7 +76,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume.pdf"
+      href="https://github.com/singhgautam7/singhgautam7/raw/main/assets/GRS_resume.docx"
       target="_blank"
       rel="noreferrer">
       Download My Resume
