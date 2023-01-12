@@ -65,9 +65,9 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building web applications, with an expertise in Python.
-        Currently, I’m working as a Data Engineer at{' '}
-        <a href="https://www.springml.com/" target="_blank" rel="noreferrer">
-          SpringML
+        Currently, I’m working as an Engineer at{' '}
+        <a href="https://fractal.ai/" target="_blank" rel="noreferrer">
+          Fractal Analytics
         </a>
         .
       </p>
