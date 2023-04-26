@@ -1,4 +1,4 @@
-﻿---
+---
 date: '2023-1-4'
 title: 'Engineer'
 company: 'Fractal'

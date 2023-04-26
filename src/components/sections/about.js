@@ -142,9 +142,8 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working as a Backend Engineer. My
-              main focus these days is working as a Data Engineer at{' '}
-              <a href="https://www.springml.com/">SpringMl</a>, providing cloud based solutions
-              using <a href="https://www.google.com/">GCP</a>. Apart from coding, I am also a
+              main focus these days is working as an Engineer at{' '}
+              <a href="https://fractal.ai/">Fractal Analytics</a>. Apart from coding, I am also a
               fitness-enthusiast, a chess player and a novice-writer.
             </p>
 

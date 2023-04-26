@@ -7,6 +7,7 @@ range: 'Dec 2021 - Dec 2022'
 url: 'https://www.springml.com/'
 ---
 
-- Devoted time to work on Google cloud platform and it's resources.
-- Utilized Infrastructure as a code tool (like terraform) to seamlessly manage the resource management in cloud.
-- Adapted microservice architecture in some projects to increase flexibility.
+- Devoted time to work on GCP resources.
+- Developed REST APIs on Flask and deployed it on Google Cloud Platform.
+- Used Infrastructure as a code tool (Terraform) to seamlessly manage the resource management in the cloud.
+- Utilized Google Cloud resources like, Cloud Run, Cloud Functions, Cloud SQL, Secret Manager, Cloud Storage, etc. for several projects and POCs.
