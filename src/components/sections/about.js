@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Django', 'Flask', 'GCP', 'Terraform'];
+  const skills = ['Python', 'Django', 'Flask', 'Go', 'GCP', 'Terraform'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,16 +135,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Gautam and I enjoy building web applications and apis in python. Interestingly, it was
-              a Hello World program in C++ which piqued my interest in coding back in 2014.
+              Hello! My name is Gautam and I enjoy building web applications and apis in python.
+              Interestingly, it was a Hello World program in C++ which piqued my interest in coding
+              back in 2014.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working as a Backend Engineer.
-              My main focus these days is working as a Data Engineer
-              at <a href="https://www.springml.com/">SpringMl</a>, providing cloud based
-              solutions using <a href="https://www.google.com/">GCP</a>. Apart from
-              coding, I am also a fitness-enthusiast, a chess player and a novice-writer.
+              Fast-forward to today, and I’ve had the privilege of working as a Backend Engineer. My
+              main focus these days is working as a Data Engineer at{' '}
+              <a href="https://www.springml.com/">SpringMl</a>, providing cloud based solutions
+              using <a href="https://www.google.com/">GCP</a>. Apart from coding, I am also a
+              fitness-enthusiast, a chess player and a novice-writer.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -152,8 +153,6 @@ const About = () => {
               {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
             </ul>
           </div>
-
-
         </StyledText>
 
         <StyledPic>
