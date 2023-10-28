@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Django', 'Flask', 'Go', 'GCP', 'Terraform'];
+  const skills = ['Python', 'Django', 'Flask', 'React', 'Go', 'GCP', 'Terraform'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,8 +141,8 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working as a Backend Engineer. My
-              main focus these days is working as an Engineer at{' '}
+              Fast-forward to today, and I’ve had the privilege of working as an Engineer. My main
+              focus these days is working as an Engineer at{' '}
               <a href="https://fractal.ai/">Fractal Analytics</a>. Apart from coding, I am also a
               fitness-enthusiast, a chess player and a novice-writer.
             </p>
