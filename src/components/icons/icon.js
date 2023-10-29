@@ -18,6 +18,7 @@ import {
   IconStar,
   IconTwitter,
 } from '@components/icons';
+import IconMedium from './medium';
 
 const Icon = ({ name }) => {
   switch (name) {
@@ -51,6 +52,8 @@ const Icon = ({ name }) => {
       return <IconTwitter />;
     case 'Hashnode':
       return <IconHashnode />;
+    case 'Medium':
+      return <IconMedium />;
     case 'Youtube':
       return <IconYoutube />;
     default:

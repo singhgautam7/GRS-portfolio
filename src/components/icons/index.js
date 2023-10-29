@@ -2,6 +2,7 @@ export { default as IconAppStore } from './appstore';
 export { default as IconBookmark } from './bookmark';
 export { default as IconCodepen } from './codepen';
 export { default as IconHashnode } from './hashnode';
+export { default as IconMedium } from './medium';
 export { default as IconYoutube } from './youtube';
 export { default as IconExternal } from './external';
 export { default as IconFolder } from './folder';

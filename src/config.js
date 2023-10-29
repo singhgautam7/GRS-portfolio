@@ -7,16 +7,16 @@ module.exports = {
       url: 'https://github.com/singhgautam7',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/singhgautam7',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/singhgautam7',
     },
     {
-      name: 'Hashnode',
-      url: 'https://singhgautam.hashnode.dev/',
+      name: 'Medium',
+      url: 'https://medium.com/@singhgautam7',
+    },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/singhgautam7',
     },
     {
       name: 'Youtube',
