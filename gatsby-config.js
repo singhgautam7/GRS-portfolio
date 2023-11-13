@@ -2,13 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Gautam Singh',
+    title: 'Gautam\'s Portfolio',
     description:
-      'Gautam Singh is a software engineer who specializes in python and developing web apps',
-    siteUrl: 'https://singhgautam.com', // No trailing slash allowed!
-    image: '/logo.png', // Path to your image you placed in the 'static' folder
+      'Gautam Singh is a software engineer who specializes in Python and developing web apps',
+    siteUrl: 'https://www.singhgautam.com', // No trailing slash allowed!
+    image: '/me192.jpg', // Path to your image you placed in the 'static' folder
     twitterUsername: 'gautamsingh1997',
-
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -27,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/me192.jpg',
       },
     },
     `gatsby-plugin-offline`,
