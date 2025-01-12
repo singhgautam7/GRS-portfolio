@@ -3,7 +3,7 @@ date: '2023-1-4'
 title: 'Engineer'
 company: 'Fractal'
 location: 'Bangalore, India'
-range: 'Jan 2023 - Present'
+range: 'Jan 2023 - Sept 2024'
 url: 'https://fractal.ai/'
 ---
 
