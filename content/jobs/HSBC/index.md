@@ -3,7 +3,7 @@ date: '2024-9-11'
 title: 'Manager - Decision Sciences'
 company: 'HSBC'
 location: 'Bangalore, India'
-range: 'Sept 2024 - Present'
+range: 'Sept 2024 - Apr 2025'
 url: 'https://www.hsbc.co.in/'
 ---
 
