@@ -135,15 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Gautam and I enjoy building web applications and apis in python.
+              Hello! My name is Gautam and I enjoy building end-to-end web applications and APIs in Python.
               Interestingly, it was a Hello World program in C++ which piqued my interest in coding
               back in 2014.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working as an Engineer. My main
-              focus these days is working as an Engineer at{' '}
-              <a href="https://fractal.ai/">Fractal Analytics</a>. Apart from coding, I am also a
+              Fast-forward to today, and I’ve had the privilege of building softwares. My main
+              focus these days is working as an Engineer II at{' '}
+              <a href="https://www.hashicorp.com/">Hashicorop - An IBM Company</a>. Apart from coding, I am also a
               fitness-enthusiast, a chess player and a novice-writer.
             </p>
 
