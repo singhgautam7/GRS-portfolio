@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: "/GRS-portfolio",
   siteMetadata: {
     title: 'Gautam\'s Portfolio',
     description:
